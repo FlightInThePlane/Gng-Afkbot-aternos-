@@ -1,0 +1,48 @@
+  {
+  "bot-account": {
+    "username": "AFKBot", 
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "Skittletsm-A1xL.aternos.me", 
+    "port": 53973,   
+    "version": "1.12.1"
+  },
+  
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": ""
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay":600,
+
+      "messages": [
+        "I'm Mr Skittletsms bot btw",
+        "I make this server online you probably know.",
+        "Never Give Up!!"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
+}
